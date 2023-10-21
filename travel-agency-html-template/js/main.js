@@ -92,3 +92,6 @@
     
 })(jQuery);
 
+function bookNow(){
+    alert("Your request has been submitted")
+}
