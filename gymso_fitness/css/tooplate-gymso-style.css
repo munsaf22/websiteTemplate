@@ -48,7 +48,7 @@ https://www.tooplate.com/view/2119-gymso-fitness
 
     --h1-font-size:         48px;
     --h2-font-size:         36px;
-    --h3-font-size:         26px;
+    --h3-font-size:         24px;
     --h4-font-size:         24px;
     --h5-font-size:         22px;
     --h6-font-size:         22px;
@@ -381,7 +381,7 @@ https://www.tooplate.com/view/2119-gymso-fitness
     background: var(--white-color);
     box-shadow: 6px 0 38px rgba(20,20,20,0.10);
     border-radius: 0 0 2px 2px;
-    padding: 1rem 2rem;
+    padding: 1rem .5rem;
     position: relative;
   }
 
