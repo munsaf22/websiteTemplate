@@ -400,12 +400,14 @@ https://www.tooplate.com/view/2119-gymso-fitness
     font-weight: var(--font-weight-bold);
     display: block;
     position: absolute;
-    top: 2rem;
-    right: 2rem;
-    width: 3.5rem;
-    height: 3.5rem;
-    line-height: 3.5rem;
+    top: 3rem;
+    right: .5rem;
+    /* width: 3.5rem; */
+    /* height: 3.5rem; */
+    /* line-height: 3.5rem; */
     text-align: center;
+    padding: 8px 16px;
+    cursor: pointer;
   }
 
 
