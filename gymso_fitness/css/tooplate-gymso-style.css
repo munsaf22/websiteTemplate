@@ -395,9 +395,10 @@ https://www.tooplate.com/view/2119-gymso-fitness
 
   .class-price {
     background: var(--primary-color);
-    border-radius: var(--border-radius-large);
+    border-radius: 10px;
     color: var(--white-color);
     font-weight: var(--font-weight-bold);
+    font-size: 14px;
     display: block;
     position: absolute;
     top: 3rem;
