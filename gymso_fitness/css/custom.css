@@ -1,0 +1,70 @@
+.main-div{
+    width: 100vw;
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 20px;
+}
+.main-div div{
+    width: 30%;
+    height: 100%;
+}
+.main-div div img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+.hask-back{
+    width: 50px;
+    height: 50px;
+    background: #000;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hask-back i{
+    color: #fff;
+    font-size: 30px;
+}
+#about{
+    padding: 10px 10px!important;
+}
+.section{
+padding: 10px 0px !important;
+}
+
+.class-img{
+    width: 300px;
+    height: 200px;
+    margin: 0px auto;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.class-img img{
+    width: 100%;
+    height: 100%;
+}
+.inp-sec{
+    width: 300px;
+    margin: 10px auto;
+}
+.form-inp-field{
+    width: 100%;
+}
+.form-inp-field div{
+    margin-bottom: 10px;
+}
+.form-inp-field div input{
+   width: 100%;
+   border: 1px solid #000;
+   padding: 8px 16px;
+}
+
+
+@media(width<=700px){
+    .main-div{
+     height: 30vh;
+    }
+}
