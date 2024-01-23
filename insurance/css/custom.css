@@ -1,0 +1,33 @@
+.landing-page{
+    height: 100vh!important;
+ 
+}
+.carousel-inner{
+    height: 100vh!important;
+}
+.carousel-item img{
+    width: 100%;
+    object-fit: contain!important;
+}
+/* .carousel-caption{
+    position: absolute;
+    right: 10%!important;
+    bottom: 1.25rem!important;
+    left: 10%!important;
+    padding-top: 0rem!important;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: left!important;
+   
+    height: 90vh!important;
+}  */
+
+@media (width<=700px){
+    .landing-page{
+        height: 50vh!important;
+     
+    }
+    .carousel-inner{
+        height: 50vh!important;
+    }
+}
